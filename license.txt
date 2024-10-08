@@ -1,0 +1,11 @@
+Model Information:
+* title:	EVE3D Célula Eucariota Animal
+* source:	https://sketchfab.com/3d-models/eve3d-celula-eucariota-animal-fb3311da5c9a4572bda870f6d356d83a
+* author:	EVE3D UNAM (https://sketchfab.com/eve3d_unam)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "EVE3D Célula Eucariota Animal" (https://sketchfab.com/3d-models/eve3d-celula-eucariota-animal-fb3311da5c9a4572bda870f6d356d83a) by EVE3D UNAM (https://sketchfab.com/eve3d_unam) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
